@@ -1,1 +1,1 @@
-# simple_ai_news_scraper
+Ai_news_scraper
