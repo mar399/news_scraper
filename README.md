@@ -1,1 +1,1 @@
-Ai_news_scraper
+news_scraper
